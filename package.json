@@ -1,6 +1,6 @@
 {
     "name": "alexandregallais.orks.atarijukebox.gpio",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Package related to AlexandreGallais.Orks.AtariJukebox that allow easy control over the Raspberry Pi GPIO bus.",
     "type": "module",
     "main": "dist/index.js",
